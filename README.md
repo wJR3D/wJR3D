@@ -48,11 +48,10 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/928259219038302258?theme=dark&hideDiscrim=true&hideBadges=false&bg=000000&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla" align="center" />
- <img src="https://lanyard-profile-readme.vercel.app/api/798615228728082462?theme=dark&hideDiscrim=true&hideBadges=false&bg=000000&borderRadius=30px&idleMessage=İletişim%20İçin%20Beş#0005" align="center" />
+ <img src="https://lanyard-profile-readme.vercel.app/api/826571830994403408?theme=dark&hideDiscrim=true&hideBadges=false&bg=000000&borderRadius=30px&idleMessage=İletişim%20İçin%20jr3d#1806" align="center" />
  </h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Bes-js&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bes-js&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api?username=wJR3D&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wJR3D&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
